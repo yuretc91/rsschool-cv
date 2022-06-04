@@ -1,1 +1,1 @@
-https://yuretc91.gothub.io/rsschool-cv/cv
+https://yuretc91.github.io/rsschool-cv/cv
